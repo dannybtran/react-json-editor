@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "react": "15.2.1",
+    "react-dom": "15.2.1"
+  },
+  "devDependencies": {
+    "react-addons-test-utils": "15.2.1",
+    "babel-core": "^6.11.4",
+    "babel-jest": "^14.0.2",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "*",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "jest": "^14.0.1",
+    "jest-cli": "*",
+    "webpack": "^1.13.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  }
+}
